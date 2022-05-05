@@ -1,4 +1,5 @@
-
+project 2 
+Anthony Spencer, Alex Hernandez 
 Description:
 project 1 Description ( from Anthony Spencer submission )
 Program works based off a DFA of 10 states. The program starts with an endless loop prompting user 
